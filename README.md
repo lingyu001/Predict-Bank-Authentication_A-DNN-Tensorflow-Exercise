@@ -14,5 +14,4 @@ class (integer)
 Class indicates whether or not a Bank Note was authentic.
 
 ## Method
-DNN on tensorflow
-Comparing the result to random forest classifier
+DNN on tensorflow, compared to the random forest classification results
